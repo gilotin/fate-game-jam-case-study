@@ -1,4 +1,4 @@
-# 🎮 Fate — Game Jam Case Study
+# Fate — Game Jam Case Study
 
 ## Overview
 
@@ -68,7 +68,7 @@ Despite these challenges, we managed to build a playable prototype and present i
 
 [Global Game Jam](<https://globalgamejam.org/games/2026/fate-1>)
 
-## 📝 Full Development Story (Optional)
+## Full Development Story (Optional)
 
 > This section describes the full experience of the game jam from my perspective.
 
