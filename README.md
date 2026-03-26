@@ -74,7 +74,7 @@ Despite these challenges, we managed to build a playable prototype and present i
 
 The first challenge we encountered (even before the team was created) was finding the right people. There were certain criteria we had to meet in order to apply for the jam.
 
-After creating the team "BEERЩАЙН" (*beershtain*), we faced the second challenge — we had the people, but not yet a real team. We decided to work on that first, because better no team than a broken one.
+After creating the team "CBEERЩАЙН" (*Sbeershtain*), we faced the second challenge — we had the people, but not yet a real team. We decided to work on that first, because better no team than a broken one.
 
 After a few hours, we got to know each other better and started brainstorming the game idea.
 
